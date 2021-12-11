@@ -1,14 +1,14 @@
 #header {
-    background-color: #1e9c7e;
+    background-color: #03005e;
     text-decoration: none;
-    color: #444a47;
+    color: white;
     padding: 5px;
     text-align: center;
     font-family: bookman old style;
 }
 #nav {
     line-height: 25px;
-    background-color: #638275;
+    background-color: ##03005e;
     width: 16%;
     height: 1366px;
     float: left;
@@ -48,7 +48,7 @@ ol {
     padding: 0;
     width: 215px;
     height: 600px;
-    background-color:darkseagreen;
+    background-color:#012494;
     
 }
 a:link(.activacion){
